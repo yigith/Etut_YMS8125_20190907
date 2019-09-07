@@ -12,6 +12,7 @@ namespace Etut20190907.Controllers
         public ActionResult Index()
         {
             int a = 1;
+            string name;
             return View();
         }
     }
